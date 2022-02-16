@@ -1,0 +1,38 @@
+[
+  {
+    "id": "engineer_1",
+    "name": "Engineer 1",
+    "type": "engineer",
+    "level": 1
+  },
+  {
+    "id": "engineer_2",
+    "name": "Engineer 2",
+    "type": "engineer",
+    "level": 2
+  },
+  {
+    "id": "engineer_3",
+    "name": "Engineer 3",
+    "type": "engineer",
+    "level": 3
+  },
+  {
+    "id": "engineer_4",
+    "name": "Engineer 4",
+    "type": "engineer",
+    "level": 4
+  },
+  {
+    "id": "qa_1",
+    "name": "QA 1",
+    "type": "qa",
+    "level": 1
+  },
+  {
+    "id": "tech_lead_1",
+    "name": "Tech Lead 1",
+    "type": "tech_lead",
+    "level": 1
+  }
+]

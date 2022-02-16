@@ -1,0 +1,814 @@
+[
+  {
+    "id": "s1",
+    "name": "S1",
+    "type": "scope",
+    "description": "You will write readable code, adhering to language, framework, and style-guide conventions. You follow good coding principles such as DRY, well scoped functions, and small commits.",
+    "band_id": "engineer_1"
+  },
+  {
+    "id": "s2",
+    "name": "S2",
+    "type": "scope",
+    "description": "You will provide consistent, sufficient, and comprehensive test coverage.",
+    "band_id": "engineer_1"
+  },
+  {
+    "id": "s3",
+    "name": "S3",
+    "type": "scope",
+    "description": "You will fix bugs and associated tests, backfilling coverage starting with a failing test for each of the bugs to be fixed.",
+    "band_id": "engineer_1"
+  },
+  {
+    "id": "s4",
+    "name": "S4",
+    "type": "scope",
+    "description": "You will deliver stories successfully and consistently to move the team project along.",
+    "band_id": "engineer_1"
+  },
+  {
+    "id": "s5",
+    "name": "S5",
+    "type": "scope",
+    "description": "You will actively participate in and contribute to team process including planning, standups, and retros.",
+    "band_id": "engineer_1"
+  },
+  {
+    "id": "s6",
+    "name": "S6",
+    "type": "scope",
+    "description": "You will maintain ticket state and keep stakeholders informed.",
+    "band_id": "engineer_1"
+  },
+  {
+    "id": "s7",
+    "name": "S7",
+    "type": "scope",
+    "description": "You will produce reviewable, focused, well written/loomed pull-requests.",
+    "band_id": "engineer_1"
+  },
+  {
+    "id": "s8",
+    "name": "S8",
+    "type": "scope",
+    "description": "You will participate in off-hours pairing sessions or rotation, using the experience to learn from more senior engineers and understand our systems.",
+    "band_id": "engineer_1"
+  },
+  {
+    "id": "e1",
+    "name": "E1",
+    "type": "expertise",
+    "description": "You will have a good understanding of computer science fundamentals: data structures, methodologies, and strategies.",
+    "band_id": "engineer_1"
+  },
+  {
+    "id": "e2",
+    "name": "E2",
+    "type": "expertise",
+    "description": "You have practical knowledge in the specific programming language(s) and framework(s) used by your team.",
+    "band_id": "engineer_1"
+  },
+  {
+    "id": "e3",
+    "name": "E3",
+    "type": "expertise",
+    "description": "You are capable of diagnosing problems, planning and applying fixes.",
+    "band_id": "engineer_1"
+  },
+  {
+    "id": "e4",
+    "name": "E4",
+    "type": "expertise",
+    "description": "You are motivated to learn new technologies and techniques and demonstrate an ability to turn these learnings into new skills and experiences quickly.",
+    "band_id": "engineer_1"
+  },
+  {
+    "id": "e5",
+    "name": "E5",
+    "type": "expertise",
+    "description": "You can communicate your understanding of a problem and your proposed solution.",
+    "band_id": "engineer_1"
+  },
+  {
+    "id": "e6",
+    "name": "E6",
+    "type": "expertise",
+    "description": "You are familiar with deploying working software.",
+    "band_id": "engineer_1"
+  },
+  {
+    "id": "e7",
+    "name": "E7",
+    "type": "expertise",
+    "description": "You have a good handle on the development processes the team employ (Scrum, Kanban) and associated tools we use (Git, GitHub/GitLab/Atlassian, video screencasts, video calls, Mattermost/Slack).",
+    "band_id": "engineer_1"
+  },
+  {
+    "id": "m1",
+    "name": "M1",
+    "type": "mindset",
+    "description": "You are emotionally mature & humble. You care about being effective over being right. Ideally you’ve made major changes and decisions in your life and learned from the results.",
+    "band_id": "engineer_1"
+  },
+  {
+    "id": "m2",
+    "name": "M2",
+    "type": "mindset",
+    "description": "You geek out about how cool software is, inhale articles and books on the subject, and enjoy trying out different languages, technologies, and methodologies.",
+    "band_id": "engineer_1"
+  },
+  {
+    "id": "m3",
+    "name": "M3",
+    "type": "mindset",
+    "description": "Your focus is primarily at the syntax level, focused on code clarity and readability.",
+    "band_id": "engineer_1"
+  },
+  {
+    "id": "m4",
+    "name": "M4",
+    "type": "mindset",
+    "description": "You are becoming increasingly comfortable with the confidence that testing brings to your coding.",
+    "band_id": "engineer_1"
+  },
+  {
+    "id": "m5",
+    "name": "M5",
+    "type": "mindset",
+    "description": "You ask for reviews of the code you're writing and feedback on the work you’re doing.",
+    "band_id": "engineer_1"
+  },
+  {
+    "id": "m6",
+    "name": "M6",
+    "type": "mindset",
+    "description": "You seek out mentorship and soak up opportunities for learning.",
+    "band_id": "engineer_1"
+  },
+  {
+    "id": "m7",
+    "name": "M7",
+    "type": "mindset",
+    "description": "You are focused on making only new mistakes. You turn personal mistake into team knowledge. You are eager to share what you learn.",
+    "band_id": "engineer_1"
+  },
+  {
+    "id": "m8",
+    "name": "M8",
+    "type": "mindset",
+    "description": "You are hungry and driven to contribute and provide value to your team and to the product and organization. You set aggressive milestones for yourself and do extra to meet them.",
+    "band_id": "engineer_1"
+  },
+  {
+    "id": "m9",
+    "name": "M9",
+    "type": "mindset",
+    "description": "You are fine-tuning your communication skills: you are an active listener and are able to articulate your thoughts/feelings. You regularly provide updates and ask for help quickly.",
+    "band_id": "engineer_1"
+  },
+  {
+    "id": "s9",
+    "name": "S9",
+    "type": "scope",
+    "description": "You will own a small component or project, guiding it from inception through completion in a timely manner.",
+    "band_id": "engineer_2"
+  },
+  {
+    "id": "s10",
+    "name": "S10",
+    "type": "scope",
+    "description": "You design solutions to medium complexity problems, managing simplicity, completeness, performance, and risk-tolerance.",
+    "band_id": "engineer_2"
+  },
+  {
+    "id": "s11",
+    "name": "S11",
+    "type": "scope",
+    "description": "You will seek and incorporate reviews; handle testing, instrumentation, deployment, and monitoring.",
+    "band_id": "engineer_2"
+  },
+  {
+    "id": "s12",
+    "name": "S12",
+    "type": "scope",
+    "description": "You will provide thoughtful, constructive code reviews.",
+    "band_id": "engineer_2"
+  },
+  {
+    "id": "s13",
+    "name": "S13",
+    "type": "scope",
+    "description": "You will take on mentorship of more junior engineers, highlight their accomplishments, and help them find their way in the organization.",
+    "band_id": "engineer_2"
+  },
+  {
+    "id": "s14",
+    "name": "S14",
+    "type": "scope",
+    "description": "You will participate in an on-call rotation, applying your expertise to solve problems where you’re familiar, or helping to find the right person to solve the problems where you’re not.",
+    "band_id": "engineer_2"
+  },
+  {
+    "id": "s15",
+    "name": "S15",
+    "type": "scope",
+    "description": "You will participate in on-call rotation, using the experience to learn from more senior engineers and understand our systems.",
+    "band_id": "engineer_2"
+  },
+  {
+    "id": "e8",
+    "name": "E8",
+    "type": "expertise",
+    "description": "You have a background and experience in software development — a Computer Science degree (or comparable) and several years’ working experience in non-trivial software development.",
+    "band_id": "engineer_2"
+  },
+  {
+    "id": "e9",
+    "name": "E9",
+    "type": "expertise",
+    "description": "You possess a deep understanding of computer science fundamentals: data structures, algorithms, and strategies.",
+    "band_id": "engineer_2"
+  },
+  {
+    "id": "e10",
+    "name": "E10",
+    "type": "expertise",
+    "description": "You have in-depth knowledge of multiple programming languages, frameworks, and/or specialized systems. You are able to discern and articulate the relative merits of each.",
+    "band_id": "engineer_2"
+  },
+  {
+    "id": "e11",
+    "name": "E11",
+    "type": "expertise",
+    "description": "You have knowledge of how the internet and networking works (i.e. DNS, HTTP, TLS, Certificates, etc) and the tools and services that enable people and devices to connect to services (e.g., browsers, CDNs, proxies, etc).",
+    "band_id": "engineer_2"
+  },
+  {
+    "id": "e12",
+    "name": "E12",
+    "type": "expertise",
+    "description": "You have some knowledge of and experience with how systems work at scale (e.g. threads, virtualization, configuration management, load balancers, caching).",
+    "band_id": "engineer_2"
+  },
+  {
+    "id": "e13",
+    "name": "E13",
+    "type": "expertise",
+    "description": "You are skilled in managing your time and the projects you lead or are a part of and can leverage processes, ceremonies, and tools to do so.",
+    "band_id": "engineer_2"
+  },
+  {
+    "id": "m10",
+    "name": "M10",
+    "type": "mindset",
+    "description": "You're championing quality through your own coding practices.",
+    "band_id": "engineer_2"
+  },
+  {
+    "id": "m11",
+    "name": "M11",
+    "type": "mindset",
+    "description": "You are actively working to hone your craft and be a better programmer.",
+    "band_id": "engineer_2"
+  },
+  {
+    "id": "m12",
+    "name": "M12",
+    "type": "mindset",
+    "description": "You seek to learn more about the organization, our business, and problem domain.",
+    "band_id": "engineer_2"
+  },
+  {
+    "id": "m13",
+    "name": "M13",
+    "type": "mindset",
+    "description": "Testing is a natural part of your workflow; you feel better when you're shipping a test. You guarantee your software and are the first to know if something is amiss.",
+    "band_id": "engineer_2"
+  },
+  {
+    "id": "m14",
+    "name": "M14",
+    "type": "mindset",
+    "description": "You enjoy participating in and providing feedback on design and code reviews. You're socializing and testing your designs for components/modules before cutting code.",
+    "band_id": "engineer_2"
+  },
+  {
+    "id": "m15",
+    "name": "M15",
+    "type": "mindset",
+    "description": "You are accountable: if you ship something you own it from inception to production.",
+    "band_id": "engineer_2"
+  },
+  {
+    "id": "m16",
+    "name": "M16",
+    "type": "mindset",
+    "description": "You are collaborative: you work with other engineers on solutions that cut across teams/technologies.",
+    "band_id": "engineer_2"
+  },
+  {
+    "id": "m17",
+    "name": "M17",
+    "type": "mindset",
+    "description": "You can work independently: you manage your own time efficiently with a strong sense of prioritization.",
+    "band_id": "engineer_2"
+  },
+  {
+    "id": "m18",
+    "name": "M18",
+    "type": "mindset",
+    "description": "You can manage your workload: you communicate frequently and honestly to stakeholders and yourself about the work you commit to.",
+    "band_id": "engineer_2"
+  },
+  {
+    "id": "m19",
+    "name": "M19",
+    "type": "mindset",
+    "description": "You are fast-paced: you love the speed of and impact you have in startups. You set aggressive milestones for yourself and do extra to meet them.",
+    "band_id": "engineer_2"
+  },
+  {
+    "id": "s16",
+    "name": "S16",
+    "type": "scope",
+    "description": "You may take on a Technical Lead role on a project, for a particular component or area of the codebase, or for your broader team.",
+    "band_id": "engineer_3"
+  },
+  {
+    "id": "s17",
+    "name": "S17",
+    "type": "scope",
+    "description": "You find innovative solutions to complex problems.",
+    "band_id": "engineer_3"
+  },
+  {
+    "id": "s18",
+    "name": "S18",
+    "type": "scope",
+    "description": "You will take on an ownership stake in the work of your entire team.",
+    "band_id": "engineer_3"
+  },
+  {
+    "id": "s19",
+    "name": "S19",
+    "type": "scope",
+    "description": "You will proactively improve the lot of engineers on call by creating automated tasks, writing runbooks, and ensuring all errors appearing in logs are actual errors rather than simply living with “some we can ignore.”",
+    "band_id": "engineer_3"
+  },
+  {
+    "id": "s20",
+    "name": "S20",
+    "type": "scope",
+    "description": "You will contribute to open-source projects on behalf of the organization.",
+    "band_id": "engineer_3"
+  },
+  {
+    "id": "s21",
+    "name": "S21",
+    "type": "scope",
+    "description": "You will participate in hiring as a technical interviewer.",
+    "band_id": "engineer_3"
+  },
+  {
+    "id": "s22",
+    "name": "S22",
+    "type": "scope",
+    "description": "You take initiative and pitch in. You jump into areas that need your help, you leave code better than when you found it, and you actively contribute to your team’s or the engineering org’s priorities.",
+    "band_id": "engineer_3"
+  },
+  {
+    "id": "s23",
+    "name": "S23",
+    "type": "scope",
+    "description": "You are comfortable spiking or creating an MVP in order to ensure we learn quickly, and understand the appropriate tradeoffs to make to do so.",
+    "band_id": "engineer_3"
+  },
+  {
+    "id": "e14",
+    "name": "E14",
+    "type": "expertise",
+    "description": "You have a deep understanding of various pieces of our codebase or different clients' projects.",
+    "band_id": "engineer_3"
+  },
+  {
+    "id": "e15",
+    "name": "E15",
+    "type": "expertise",
+    "description": "You can explain our application architecture, infrastructure, and codebase to others.",
+    "band_id": "engineer_3"
+  },
+  {
+    "id": "e16",
+    "name": "E16",
+    "type": "expertise",
+    "description": "You have a good understanding of how each component, service, and process affects user experience and system performance.",
+    "band_id": "engineer_3"
+  },
+  {
+    "id": "e17",
+    "name": "E17",
+    "type": "expertise",
+    "description": "You are a systems thinker. You think about how your designs will affect other aspects of the service and how it will evolve in the future.",
+    "band_id": "engineer_3"
+  },
+  {
+    "id": "e18",
+    "name": "E18",
+    "type": "expertise",
+    "description": "You have experience building transactional applications at scale. You’ve worked w/ APIs (REST, JSON/HTTP, GraphQL) and know how the server-side works — if you didn’t build it yourself.",
+    "band_id": "engineer_3"
+  },
+  {
+    "id": "e19",
+    "name": "E19",
+    "type": "expertise",
+    "description": "You’re a skilled manager of the projects you lead or are a part of. You can organize and lead processes, ceremonies, and tools to do so (e.g. sprint planning sessions, standups, task tracking boards, risk plans.)",
+    "band_id": "engineer_3"
+  },
+  {
+    "id": "m20",
+    "name": "M20",
+    "type": "mindset",
+    "description": "You're championing quality throughout your team.",
+    "band_id": "engineer_3"
+  },
+  {
+    "id": "m21",
+    "name": "M21",
+    "type": "mindset",
+    "description": "You have a passion for scale and performance. You think people deserve access to their data in milliseconds and feel slow web pages are an insult. You worry about what happens when we have 100x more customers, but are practical and experienced to know how to solve what you need to right now.",
+    "band_id": "engineer_3"
+  },
+  {
+    "id": "m22",
+    "name": "M22",
+    "type": "mindset",
+    "description": "You test components and microservices comprehensively — both in isolation and across internal systems and external services.",
+    "band_id": "engineer_3"
+  },
+  {
+    "id": "m23",
+    "name": "M23",
+    "type": "mindset",
+    "description": "You're leading design conversations and proposing design specifications for components, interfaces, and services.",
+    "band_id": "engineer_3"
+  },
+  {
+    "id": "m24",
+    "name": "M24",
+    "type": "mindset",
+    "description": "You're bringing more to code reviews than review, actively raising the bar for code quality, scalability, and confidence.",
+    "band_id": "engineer_3"
+  },
+  {
+    "id": "m25",
+    "name": "M25",
+    "type": "mindset",
+    "description": "You are accountable not only for your own work, but for those of your teammates.",
+    "band_id": "engineer_3"
+  },
+  {
+    "id": "m26",
+    "name": "M26",
+    "type": "mindset",
+    "description": "You are someone with extremely high standards. You’re practical and know perfect is the enemy of good, but you aspire for us to be great.",
+    "band_id": "engineer_3"
+  },
+  {
+    "id": "m27",
+    "name": "M27",
+    "type": "mindset",
+    "description": "You are an owner. You feel personally accountable and responsible and know seeing the problem is less than half of it. You look for problems and inefficiencies and find elegant solutions to them before they become major issues.",
+    "band_id": "engineer_3"
+  },
+  {
+    "id": "m28",
+    "name": "M28",
+    "type": "mindset",
+    "description": "You stay on top of risks. As our organization becomes commonplace around the world, the products and services we provide and data we store will be more and more valuable. It is your job to make things highly available, performant, and secure as appropriate.",
+    "band_id": "engineer_3"
+  },
+  {
+    "id": "s24",
+    "name": "S24",
+    "type": "scope",
+    "description": "You will own large components, systems, or projects, coordinating and communicating with teams and leads across the organization.",
+    "band_id": "engineer_4"
+  },
+  {
+    "id": "s25",
+    "name": "S25",
+    "type": "scope",
+    "description": "You will design solutions to high complexity problems, with high-availability and high-reliability in mind.",
+    "band_id": "engineer_4"
+  },
+  {
+    "id": "s26",
+    "name": "S26",
+    "type": "scope",
+    "description": "You will instigate design discussions and facilitate engineering-wide learning.",
+    "band_id": "engineer_4"
+  },
+  {
+    "id": "s27",
+    "name": "S27",
+    "type": "scope",
+    "description": "You will represent engineering across the organization.",
+    "band_id": "engineer_4"
+  },
+  {
+    "id": "s28",
+    "name": "S28",
+    "type": "scope",
+    "description": "You will be the primary driver of resolving production issues, holding post-mortems, and owning long-term fixes.",
+    "band_id": "engineer_4"
+  },
+  {
+    "id": "s29",
+    "name": "S29",
+    "type": "scope",
+    "description": "You will take on independent greenfield projects with an eye to furthering the products and services of the organization.",
+    "band_id": "engineer_4"
+  },
+  {
+    "id": "s30",
+    "name": "S30",
+    "type": "scope",
+    "description": "You help decide when it is appropriate to spike or create an MVP in order to ensure we learn quickly, and can rally the team around the appropriate tradeoffs needed to do so.",
+    "band_id": "engineer_4"
+  },
+  {
+    "id": "e20",
+    "name": "E20",
+    "type": "expertise",
+    "description": "You have a deep understanding of the landscape of our codebases, components, and services.",
+    "band_id": "engineer_4"
+  },
+  {
+    "id": "e21",
+    "name": "E21",
+    "type": "expertise",
+    "description": "You have a mastery of your primary languages and frameworks.",
+    "band_id": "engineer_4"
+  },
+  {
+    "id": "e22",
+    "name": "E22",
+    "type": "expertise",
+    "description": "You are up to date with the landscape of technologies and techniques and able to evaluate their impact on the organization and its products and services.",
+    "band_id": "engineer_4"
+  },
+  {
+    "id": "e23",
+    "name": "E23",
+    "type": "expertise",
+    "description": "You understand and drive techniques for improving engineering productivity.",
+    "band_id": "engineer_4"
+  },
+  {
+    "id": "e24",
+    "name": "E24",
+    "type": "expertise",
+    "description": "You are experienced with a wide variety of development approaches, patterns, and implementation styles.",
+    "band_id": "engineer_4"
+  },
+  {
+    "id": "m29",
+    "name": "M29",
+    "type": "mindset",
+    "description": "You are actively seeking out opportunities to teach and mentor fellow team members.",
+    "band_id": "engineer_4"
+  },
+  {
+    "id": "m30",
+    "name": "M30",
+    "type": "mindset",
+    "description": "You are actively pushing back on over-engineered solutions. Conversely, you are advocating for improving under-implemented solutions.",
+    "band_id": "engineer_4"
+  },
+  {
+    "id": "m31",
+    "name": "M31",
+    "type": "mindset",
+    "description": "You are quick to revisit past assumptions - the solution that worked 'then' may not be the right solution for 'now.'",
+    "band_id": "engineer_4"
+  },
+  {
+    "id": "m32",
+    "name": "M32",
+    "type": "mindset",
+    "description": "You help determine team goals, KPIs, and projects necessary to deliver on those goals / measure KPIs.",
+    "band_id": "engineer_4"
+  },
+  {
+    "id": "m33",
+    "name": "M33",
+    "type": "mindset",
+    "description": "You actively contribute to motivating and growing the team. You're asked to provide performance feedback and input on opportunities for individual growth.",
+    "band_id": "engineer_4"
+  },
+  {
+    "id": "m34",
+    "name": "M34",
+    "type": "mindset",
+    "description": "You are a picture of responsibility and accountability. The organization depends on you.",
+    "band_id": "engineer_4"
+  },
+  {
+    "id": "m35",
+    "name": "M35",
+    "type": "mindset",
+    "description": "You play a key role in hiring and promoting the organization as an employer.",
+    "band_id": "engineer_4"
+  },
+  {
+    "id": "qas1",
+    "name": "QAS1",
+    "type": "scope",
+    "description": "You will create test cases based on acceptance criteria",
+    "band_id": "qa_1"
+  },
+  {
+    "id": "qas2",
+    "name": "QAS2",
+    "type": "scope",
+    "description": "You will execute test cases and be able generate reports. You can also retest bugs.",
+    "band_id": "qa_1"
+  },
+  {
+    "id": "qas3",
+    "name": "QAS3",
+    "type": "scope",
+    "description": "You will attend review meetings and other team building activities.",
+    "band_id": "qa_1"
+  },
+  {
+    "id": "qas4",
+    "name": "QAS4",
+    "type": "scope",
+    "description": "You will first be familiar with manual testing, and work towards specializing in one of the following: \na) Automation testing\nb) Performance testing\nc) Business analyst",
+    "band_id": "qa_1"
+  },
+  {
+    "id": "qae1",
+    "name": "QAE1",
+    "type": "expertise",
+    "description": "You should have sharp analytical skills. For example, puzzles like this is a good way to evaluate and practice.",
+    "band_id": "qa_1"
+  },
+  {
+    "id": "qae2",
+    "name": "QAE2",
+    "type": "expertise",
+    "description": "You should know basic database/SQL and how to validate data at the database level.",
+    "band_id": "qa_1"
+  },
+  {
+    "id": "qae3",
+    "name": "QAE3",
+    "type": "expertise",
+    "description": "You should know how to interact with public and internal APIs and sometimes even run linux commands when necessary.",
+    "band_id": "qa_1"
+  },
+  {
+    "id": "qae4",
+    "name": "QAE4",
+    "type": "expertise",
+    "description": "You are famliar with testing artifacts (test cases/plans, test strategies, bug reports, etc) and make sure they are easy to read and understand.",
+    "band_id": "qa_1"
+  },
+  {
+    "id": "qae5",
+    "name": "QAE5",
+    "type": "expertise",
+    "description": "You should be good at logging defects, bugs and track them systematically, knowing how to create reports for them in bigger projects.",
+    "band_id": "qa_1"
+  },
+  {
+    "id": "qae6",
+    "name": "QAE6",
+    "type": "expertise",
+    "description": "You should develop skills on performance testing and use relevant tools to help (time taken to load, max load, latency etc)",
+    "band_id": "qa_1"
+  },
+  {
+    "id": "qam1",
+    "name": "QAM1",
+    "type": "mindset",
+    "description": "You should be curious to keep learning new tools across projects.",
+    "band_id": "qa_1"
+  },
+  {
+    "id": "qam2",
+    "name": "QAM2",
+    "type": "mindset",
+    "description": "You know how to work with developers and understand how to communicate with them effectively (e.g. without blaming)",
+    "band_id": "qa_1"
+  },
+  {
+    "id": "qam3",
+    "name": "QAM3",
+    "type": "mindset",
+    "description": "You have a good attitude towards testing. \"Test to break\", detail orientation, willingness to learn and suggest process improvements.",
+    "band_id": "qa_1"
+  },
+  {
+    "id": "tls1",
+    "name": "TLS1",
+    "type": "scope",
+    "description": "You will be responsible for creating and maintaining the delivery plan for a product, project, or codebase.",
+    "band_id": "tech_lead_1"
+  },
+  {
+    "id": "tls2",
+    "name": "TLS2",
+    "type": "scope",
+    "description": "You will fully own the technical direction, architecture, and engineering KPIs for the project and associated code.",
+    "band_id": "tech_lead_1"
+  },
+  {
+    "id": "tls3",
+    "name": "TLS3",
+    "type": "scope",
+    "description": "You will manage the deliverables, priorities, and risks of the project.",
+    "band_id": "tech_lead_1"
+  },
+  {
+    "id": "tls4",
+    "name": "TLS4",
+    "type": "scope",
+    "description": "You will coordinate with other teams (typically Product, Design, and Support) as needed to bring the work to conclusion.",
+    "band_id": "tech_lead_1"
+  },
+  {
+    "id": "tls5",
+    "name": "TLS5",
+    "type": "scope",
+    "description": "You will run an inception for the project, bringing together key stakeholders and core team members to define scope; set goals (and anti-goals); assess risks; identify personas, roles, and activities; and produce an initial backlog of stories.",
+    "band_id": "tech_lead_1"
+  },
+  {
+    "id": "tls6",
+    "name": "TLS6",
+    "type": "scope",
+    "description": "You will lead agile ceremonies for the core team, including: storytime, sprint planning, stand-ups, weekly discussion and retrospectives.",
+    "band_id": "tech_lead_1"
+  },
+  {
+    "id": "tls7",
+    "name": "TLS7",
+    "type": "scope",
+    "description": "You will drive the project's stories through estimation, selection for development, review, testing, deployment, and acceptance.",
+    "band_id": "tech_lead_1"
+  },
+  {
+    "id": "tle1",
+    "name": "TLE1",
+    "type": "expertise",
+    "description": "You have successfully managed small-scale projects. You can organize and lead processes, ceremonies, and tools to do so (e.g. sprint planning sessions, stand-ups, task tracking boards, risk plans.)",
+    "band_id": "tech_lead_1"
+  },
+  {
+    "id": "tle2",
+    "name": "TLE2",
+    "type": "expertise",
+    "description": "You have led design conversations and proposed design specifications for components, interfaces, and services.",
+    "band_id": "tech_lead_1"
+  },
+  {
+    "id": "tle3",
+    "name": "TLE3",
+    "type": "expertise",
+    "description": "You have successfully managed your own workload, particularly work involving coordination with other team members.",
+    "band_id": "tech_lead_1"
+  },
+  {
+    "id": "tle4",
+    "name": "TLE4",
+    "type": "expertise",
+    "description": "You are able to communicate clearly and concisely both to technical and non-technical audiences about scope of, methodologies employed in, and state of a project.",
+    "band_id": "tech_lead_1"
+  },
+  {
+    "id": "tle5",
+    "name": "TLE5",
+    "type": "expertise",
+    "description": "You are able to discern when it is appropriate to spike or create an MVP in order to ensure quick learnings and can rally a team around the appropriate tradeoffs needed to do so.",
+    "band_id": "tech_lead_1"
+  },
+  {
+    "id": "tlm1",
+    "name": "TLM1",
+    "type": "mindset",
+    "description": "You are actively pushing back on over-engineered solutions.",
+    "band_id": "tech_lead_1"
+  },
+  {
+    "id": "tlm2",
+    "name": "TLM2",
+    "type": "mindset",
+    "description": "Conversely, you are advocating for improving under-implemented solutions.",
+    "band_id": "tech_lead_1"
+  }
+]

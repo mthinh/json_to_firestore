@@ -1,0 +1,20 @@
+[
+  {
+    "id": "engineer",
+    "name": "Engineer",
+    "type": "engineer",
+    "band_ids": ["engineer_1", "engineer_2", "engineer_3", "engineer_4"]
+  },
+  {
+    "id": "qa",
+    "name": "QA",
+    "type": "qa",
+    "band_ids": ["qa_1"]
+  },
+  {
+    "id": "tech_lead",
+    "name": "Tech Lead",
+    "type": "tech_lead",
+    "band_ids": ["tech_lead_1"]
+  }
+]
